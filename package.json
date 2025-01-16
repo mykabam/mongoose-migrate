@@ -14,7 +14,7 @@
   "repository": "git://github.com/madhums/mongoose-migrate",
   "bin": { "mongoose-migrate": "./bin/migrate" },
   "dependencies" : {
-    "mongoose": "4.1.x"
+    "mongoose": "6.13.6"
   },
   "devDependencies": {
     "should": ">= 0.0.1"
